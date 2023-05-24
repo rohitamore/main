@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #141516;
+}
+
+.img {
+    height: 400px;
+}
+
+.danger {
+    border: 2px solid rgb(243, 241, 241);
+    border-radius: 17px !important;
+    font-size: smaller;
+}
+
+.push {
+    margin-left: 300px !important;
+}
+
+.ms4 {
+    margin: 120px !important;
+}
+
+.HOME:hover {
+    color: rgb(226, 94, 94) !important;
+}
+
+.person {
+    line-height: 60px;
+}

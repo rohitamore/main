@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #141516;
+}
+/* .navbar1{
+    background-color: #6c757d;
+} */
+.img{
+    height: 400px;
+}
+.rounded{
+    border-radius: 40px !important;
+}
+.Active:hover{
+    color: red !important;
+}
+.uptext{
+    margin-right: 100px;
+    border-radius: 200px !important;
+   
+}
+.ms{
+    margin-left: 250px !important;
+}
+.margin{
+    margin-left: 80px !important;
+}
